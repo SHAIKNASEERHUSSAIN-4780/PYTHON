@@ -1,0 +1,2 @@
+Python is an ineractive programming language. Simple syntax of the language makes
+Python programs easy to read and write.
